@@ -69,3 +69,7 @@ function getTriangle(a, b, c) {
 		return errorTriangle;
 	}
 }
+window.parseCount = parseCount;
+window.validateCount = validateCount;
+window.Triangle = Triangle;
+window.getTriangle = getTriangle;
